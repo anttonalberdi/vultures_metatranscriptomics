@@ -22,5 +22,5 @@ Use bin annotations to quantify gene expression.
 
 ```{sh}
 conda activate drakkar
-drakkar expressing -b bins -e /projects/alberdilab/data/environments/drakkar
+drakkar expressing -b bins -r preprocessing/final -e /projects/alberdilab/data/environments/drakkar
 ```
